@@ -1,0 +1,19 @@
+{
+  "name": "imagine-ui-angular",
+  "version": "1.0.0",
+  "description": "Angular implementation of Imagine UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourAverageDeveloper/imagine-ui-angular.git"
+  },
+  "author": "yourAverageDeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourAverageDeveloper/imagine-ui-angular/issues"
+  },
+  "homepage": "https://github.com/yourAverageDeveloper/imagine-ui-angular#readme"
+}
